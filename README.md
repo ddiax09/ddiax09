@@ -66,9 +66,3 @@ mindmap
 
 ---
 
-### My Stats
-
-<div align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ddiax09&show_icons=true">
-    <img width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ddiax09&show_icons=true">
-</div>
